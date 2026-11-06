@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://gullyid.xyz">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gully-labs-logo.png">
-      <img alt="Gully ID" src=".github/assets/gully-labs-logo-on-light.png" width="260">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gully-labs-logotype-reversed.svg">
+      <img alt="Gully Labs" src=".github/assets/gully-labs-logotype-color.svg" width="260">
     </picture>
   </a>
 </p>
@@ -167,8 +167,8 @@ deno run test:coverage
 <p align="center">
   <a href="https://gullylabs.xyz">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/powered-by-gully-labs-dark-2x.png">
-      <img alt="Powered by Gully Labs" src=".github/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gully-labs-powered-by-dark.svg">
+      <img alt="Powered by Gully Labs" src=".github/assets/gully-labs-powered-by-light.svg" width="256" height="88">
     </picture>
   </a>
 </p>
