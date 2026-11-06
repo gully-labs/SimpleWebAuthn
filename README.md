@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://gullyid.xyz">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gully-labs-logotype-reversed.svg">
-      <img alt="Gully Labs" src=".github/assets/gully-labs-logotype-color.svg" width="260">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gullyid-lockup-on-dark.svg">
+      <img alt="Gully ID" src=".github/assets/gullyid-lockup-on-light.svg" width="260">
     </picture>
   </a>
 </p>
